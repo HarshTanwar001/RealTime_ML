@@ -1,5 +1,5 @@
 ## Requirements
-| Tables         | Are           |
+| Library        | Version    |
 |:-------------: |:-------------:|
 | Numpy          | 1.26.4     |
 | Pandas         | 2.2.0      |
